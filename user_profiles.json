@@ -1,0 +1,22 @@
+{
+  "user1": {
+    "demographics": {
+      "age": 28,
+      "gender": "female",
+      "location": "urban"
+    },
+    "interests": ["travel", "fitness", "technology"],
+    "view_history": [103, 101, 104],
+    "engagement_rate": 0.35
+  },
+  "user2": {
+    "demographics": {
+      "age": 42,
+      "gender": "male", 
+      "location": "suburban"
+    },
+    "interests": ["automotive", "sports", "finance"],
+    "view_history": [102, 101],
+    "engagement_rate": 0.28
+  }
+}

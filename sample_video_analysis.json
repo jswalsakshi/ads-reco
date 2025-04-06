@@ -1,0 +1,34 @@
+[
+  {
+    "scene_id": 1,
+    "time_start": 0,
+    "time_end": 12,
+    "duration": 12,
+    "keyframe_time": 6,
+    "keyframe_path": "scene_1_keyframe.jpg",
+    "metadata": {
+      "response": {
+        "scene_context": "A tranquil beach scene with a person sitting alone on the sand facing a calm ocean or sea with a clear blue sky above",
+        "key_objects": [
+          "beach",
+          "sand",
+          "ocean",
+          "sky",
+          "clouds",
+          "person"
+        ],
+        "scene_type": "outdoor",
+        "emotional_tone": "peaceful",
+        "visible_text": "none",
+        "activity": "relaxation/contemplation at the beach",
+        "suitable_ad_categories": [
+          "travel and tourism",
+          "beach resorts",
+          "swimwear and beachwear",
+          "sunscreen products",
+          "wellness retreats"
+        ]
+      }
+    }
+  }
+]

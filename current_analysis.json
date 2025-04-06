@@ -1,0 +1,18 @@
+{
+  "timestamp": "10:50:08.461",
+  "frame_number": 240,
+  "video_time": "00:00:08.000",
+  "image_stats": {
+    "brightness": "156.2",
+    "motion_blur": "304.1",
+    "color_saturation": "37.6",
+    "color_value": "165.1"
+  },
+  "gpt4o_analysis": {
+    "error": "Exception during analysis: the JSON object must be str, bytes or bytearray, not NoneType"
+  },
+  "detected_activities": [
+    "unknown"
+  ],
+  "video_progress": "53.5%"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "scene_id": 1,
+    "time_start": 0.0,
+    "time_end": 10.0,
+    "duration": 10.0,
+    "metadata": {
+      "response": {
+        "scene_context": "Beach scene with clear sky",
+        "emotional_tone": "peaceful",
+        "key_objects": [
+          "sand",
+          "water",
+          "sky"
+        ],
+        "activity": "relaxing"
+      }
+    }
+  },
+  {
+    "scene_id": 2,
+    "time_start": 10.0,
+    "time_end": 20.0,
+    "duration": 10.0,
+    "metadata": {
+      "response": {
+        "scene_context": "Group of friends having dinner",
+        "emotional_tone": "joyful",
+        "key_objects": [
+          "table",
+          "food",
+          "people"
+        ],
+        "activity": "socializing"
+      }
+    }
+  }
+]
